@@ -10,11 +10,11 @@ Welcome to my portfolio! Here, you'll find a blend of systematic technical docum
 ## 📁 Featured Portfolios
 
 ### 1. Technical Documentation & Systems
-* **[SIPP Documentation](./SIPPManualName.pdf)** - A comprehensive User and Administrator Manual for an Internship Monitoring System, translating database logic into step-by-step end-user guides.
-* **[RHSYS System Architecture](./RHSYSFileName.pdf)** - End-to-end system requirements specifications (SRS) and user journey workflows for rural health workers.
+* **[SIPP Documentation](./SIPP_OJT_Monitor_User_Manual.pdf)** - A comprehensive User and Administrator Manual for an Internship Monitoring System, translating database logic into step-by-step end-user guides.
+* **[RHSYS System Architecture](./rhsys2)** - End-to-end system requirements specifications (SRS) and user journey workflows for rural health workers.
 
 ### 2. Journalism & Editorial Copy
-* **[TVOTS News & Sports Portfolio](./NewsReportsName.pdf)** - A collection of published news articles and sports features demonstrating narrative pacing, copyreading precision, and strict deadline adherence.
+* **[TVOTS News & Sports Portfolio](./news_writing.pdf)** - A collection of published news articles and sports features demonstrating narrative pacing, copyreading precision, and strict deadline adherence.
 
 ---
 
